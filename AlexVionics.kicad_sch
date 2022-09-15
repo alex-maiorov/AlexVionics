@@ -26,6 +26,18 @@
     )
   )
 
+  (sheet (at 22.86 22.86) (size 64.77 64.77) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 389aefcf-b314-4aab-b5ae-32c0773405d5)
+    (property "Sheet name" "POWER" (id 0) (at 22.86 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "POWER.kicad_sch" (id 1) (at 22.86 88.2146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 102.87 22.86) (size 72.39 139.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -55,6 +67,7 @@
     (path "/a04211ac-c83e-4973-b546-2839a7b01635" (page "2"))
     (path "/bc2005ae-598d-43fd-8610-1af53ee6d8a1" (page "3"))
     (path "/2fc0ce4a-f513-44b9-bde6-b00ebdd65969" (page "4"))
+    (path "/389aefcf-b314-4aab-b5ae-32c0773405d5" (page "5"))
   )
 
   (symbol_instances

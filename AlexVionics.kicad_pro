@@ -332,6 +332,10 @@
     [
       "2fc0ce4a-f513-44b9-bde6-b00ebdd65969",
       "TELEMETRY"
+    ],
+    [
+      "389aefcf-b314-4aab-b5ae-32c0773405d5",
+      "POWER"
     ]
   ],
   "text_variables": {}
